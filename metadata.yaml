@@ -1,0 +1,26 @@
+_repo: The-Autobiography-of-a-Slander_1273
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lyall, Edna
+    alias: Bayly, Ada Ellen
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '581'
+    url: http://www.gutenberg.org/2009/agents/581
+    wikipedia: http://en.wikipedia.org/wiki/Ada_Ellen_Bayly
+description: ''
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- GITenberg
+title: The Autobiography of a Slander
+url: http://www.gutenberg.org/ebooks/1273
